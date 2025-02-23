@@ -1,7 +1,8 @@
 # I'm [Elayabarathi M V](https://portfolio-three-pi-52.vercel.app/), a passionate Full Stack Web Developer 👋🏼:
 
-🧪 Am a B.Tech Biotechnology Graduate<br>
+🧪 B.Tech Biotechnology Graduate<br>
 👨🏼 Upskilling in Full Stack Web Development<br>
+🏢 Frecher searching for appropriate job<br>
 
 
 
