@@ -2,9 +2,10 @@
 # I'm [Elayabarathi M V](https://portfolio-three-pi-52.vercel.app/), a passionate Full Stack Web Developer 👋🏼:
 🧪 Am a B.Tech Biotechnology Graduate<br>
 👨🏼 Upskilling in Full Stack Web Development<br>
-🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elayabarathi) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elayabarathi) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_Elayabarathi_) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elayabarathiedison@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](elayabarathiedison@gmail.com) 
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
