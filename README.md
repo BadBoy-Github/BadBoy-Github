@@ -3,12 +3,12 @@
 🧪 Am a B.Tech Biotechnology Graduate<br>
 👨🏼 Upskilling in Full Stack Web Development<br>
 
-<a href="https://linkedin.com/in/BadBoy-Github" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a target="_blank" href="https://www.linkedin.com/in/elayabarathi" style="display: inline-block;">
+<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
 </a>
-<a href="https://twitter.com/_Elayabarathi_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+<a target="_blank" href="https://twitter.com/_Elayabarathi_" style="display: inline-block;">
+<img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
+</a>
 
 
 # 💻 Tech Stack:
