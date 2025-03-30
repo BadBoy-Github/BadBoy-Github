@@ -20,9 +20,9 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Express](https://img.shields.io/badge/Adobe%20Express-%23FA6400.svg?style=for-the-badge&logo=Adobe%20Express&logoColor=white)
-![PowerDirector](https://img.shields.io/badge/Cyberlink%20PowerDirector-%230A1F7F.svg?style=for-the-badge&logo=cyberlink&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-%23026F39.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF3366?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![PowerDirector](https://img.shields.io/badge/PowerDirector-1DA1F2?style=for-the-badge&logo=cyberlink&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) -->
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
