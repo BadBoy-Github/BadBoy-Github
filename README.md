@@ -20,7 +20,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Express](https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![PowerDirector](https://img.shields.io/badge/PowerDirector-4285F4?style=for-the-badge&logo=video&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E50F4F?style=for-the-badge&logo=autodesk&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
