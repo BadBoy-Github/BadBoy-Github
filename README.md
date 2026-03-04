@@ -7,7 +7,9 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-# Elayabarathi M V
+<h1 align="center">
+  <span style="color: #198cc6;">Elayabarathi M V</span>
+</h1>
 
 **`Frontend Developer · Software Engineer · Biotech-turned-Coder`**
 
@@ -106,6 +108,6 @@ I'm actively looking for roles where I can contribute to high-quality products, 
 
 *"Clean code is not written — it's refined."*
 
-**© 2025 Elayabarathi M V**
+**© 2026 Elayabarathi M V**
 
 </div>
