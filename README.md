@@ -13,10 +13,10 @@
 
 **`Frontend Developer · Software Engineer · Biotech-turned-Coder`**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0f172a?style=for-the-badge)](https://elayabarathimv-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0f172a?style=for-the-badge)](https://elayabarathimv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elayabarathi)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elayabarathiedison@gmail.com)
-[![Status](https://img.shields.io/badge/🚀_Status-Open_to_Opportunities-22c55e?style=for-the-badge)](https://elayabarathimv-portfolio.vercel.app/)
+[![Status](https://img.shields.io/badge/🚀_Status-Open_to_Opportunities-22c55e?style=for-the-badge)](https://elayabarathimv.vercel.app/)
 
 </div>
 
@@ -96,7 +96,7 @@ I'm actively looking for roles where I can contribute to high-quality products, 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elayabarathi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://elayabarathimv-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://elayabarathimv.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elayabarathiedison@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9724-447X)
 
